@@ -1,14 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.9dcd5068.css",
-    "main.js": "/static/js/main.f73923aa.js",
+    "main.js": "/static/js/main.66d1ac58.js",
     "static/js/787.ac5d6fe8.chunk.js": "/static/js/787.ac5d6fe8.chunk.js",
     "static/media/level_project.gif": "/static/media/level_project.21133ac0de068e486239.gif",
+    "static/media/voicePhotos_Photo.png": "/static/media/voicePhotos_Photo.52c40bc8cc264565d5c2.png",
     "static/media/level_project.png": "/static/media/level_project.7440c8b4081f2f96ac73.png",
     "static/media/wetlandCodeInterpreter_context_button.png": "/static/media/wetlandCodeInterpreter_context_button.5443c2e9afc7e527d9ae.png",
+    "static/media/voicePhotos_Recording.png": "/static/media/voicePhotos_Recording.4d2842ade12bd97f7181.png",
+    "static/media/voicePhotos_Files.png": "/static/media/voicePhotos_Files.a6758a934aa62ac3757b.png",
     "static/media/wetlandCodeInterpreterApp_Result.png": "/static/media/wetlandCodeInterpreterApp_Result.e06009a30b8ffdf7c5bc.png",
     "static/media/calculator_code.png": "/static/media/calculator_code.54b736e73919a67b3fd7.png",
     "static/media/level_project_code.png": "/static/media/level_project_code.87698dd973c56330b655.png",
+    "static/media/voicePhotos_Title.png": "/static/media/voicePhotos_Title.58da94a860485c52c8b0.png",
     "static/media/wetlandCodeInterpreterApp_GUI.png": "/static/media/wetlandCodeInterpreterApp_GUI.4e9812ba068124852e67.png",
     "static/media/project1.png": "/static/media/project1.ec2a42bee9a1a6022c4c.png",
     "static/media/wetlandCodeInterpreterApp_Error.png": "/static/media/wetlandCodeInterpreterApp_Error.5d34d23139fd058b286b.png",
@@ -19,11 +23,11 @@
     "static/media/wetlandCodeInterpreter_icon.png": "/static/media/wetlandCodeInterpreter_icon.796419acbbe2ffd55f04.png",
     "index.html": "/index.html",
     "main.9dcd5068.css.map": "/static/css/main.9dcd5068.css.map",
-    "main.f73923aa.js.map": "/static/js/main.f73923aa.js.map",
+    "main.66d1ac58.js.map": "/static/js/main.66d1ac58.js.map",
     "787.ac5d6fe8.chunk.js.map": "/static/js/787.ac5d6fe8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9dcd5068.css",
-    "static/js/main.f73923aa.js"
+    "static/js/main.66d1ac58.js"
   ]
 }
