@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba50f2de.css",
-    "main.js": "/static/js/main.c1dd5004.js",
+    "main.css": "/static/css/main.06256732.css",
+    "main.js": "/static/js/main.64bd105f.js",
     "static/js/787.ac5d6fe8.chunk.js": "/static/js/787.ac5d6fe8.chunk.js",
     "static/media/level_project.gif": "/static/media/level_project.21133ac0de068e486239.gif",
     "static/media/profile.png": "/static/media/profile.c2c5de11834e9e42adf4.png",
@@ -26,12 +26,12 @@
     "static/media/calculator_gui.png": "/static/media/calculator_gui.8ff4d105af057f35fa71.png",
     "static/media/wetlandCodeInterpreter_icon.png": "/static/media/wetlandCodeInterpreter_icon.796419acbbe2ffd55f04.png",
     "index.html": "/index.html",
-    "main.ba50f2de.css.map": "/static/css/main.ba50f2de.css.map",
-    "main.c1dd5004.js.map": "/static/js/main.c1dd5004.js.map",
+    "main.06256732.css.map": "/static/css/main.06256732.css.map",
+    "main.64bd105f.js.map": "/static/js/main.64bd105f.js.map",
     "787.ac5d6fe8.chunk.js.map": "/static/js/787.ac5d6fe8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba50f2de.css",
-    "static/js/main.c1dd5004.js"
+    "static/css/main.06256732.css",
+    "static/js/main.64bd105f.js"
   ]
 }
