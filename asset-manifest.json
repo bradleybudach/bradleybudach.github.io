@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.8f7a9097.css",
-    "main.js": "/static/js/main.17ca9e0c.js",
+    "main.js": "/static/js/main.c1fccf11.js",
     "static/js/787.ac5d6fe8.chunk.js": "/static/js/787.ac5d6fe8.chunk.js",
-    "static/media/level_project.gif": "/static/media/level_project.21133ac0de068e486239.gif",
+    "static/media/level_project.gif": "/static/media/level_project.305beb0fe618c83289eb.gif",
     "static/media/profile.png": "/static/media/profile.f1090d53927a9c8f6084.png",
     "static/media/project_tracking_pie.png": "/static/media/project_tracking_pie.ff77a820f8390d141ef2.png",
     "static/media/project_tracking_map.png": "/static/media/project_tracking_map.f84c28f78ab703583d6f.png",
@@ -18,12 +18,14 @@
     "static/media/fruit_game2.png": "/static/media/fruit_game2.437936e025fed71e1ceb.png",
     "static/media/wetlandCodeInterpreterApp_Result.png": "/static/media/wetlandCodeInterpreterApp_Result.e06009a30b8ffdf7c5bc.png",
     "static/media/colorizer_ai_overview.png": "/static/media/colorizer_ai_overview.82357dce68b15847526c.png",
+    "static/media/portfolio_code.png": "/static/media/portfolio_code.7f177130293128eb0132.png",
     "static/media/calculator_code.png": "/static/media/calculator_code.54b736e73919a67b3fd7.png",
     "static/media/level_project_code.png": "/static/media/level_project_code.87698dd973c56330b655.png",
     "static/media/voicePhotos_Title.png": "/static/media/voicePhotos_Title.58da94a860485c52c8b0.png",
     "static/media/wetlandCodeInterpreterApp_GUI.png": "/static/media/wetlandCodeInterpreterApp_GUI.4e9812ba068124852e67.png",
     "static/media/fruit_game.png": "/static/media/fruit_game.cbf87100982df874ba8d.png",
     "static/media/colorizer_ai_details.png": "/static/media/colorizer_ai_details.24f784249f5eb01d9bfc.png",
+    "static/media/portfolio_home.png": "/static/media/portfolio_home.6ef44acabd3c69020fe4.png",
     "static/media/project1.png": "/static/media/project1.ec2a42bee9a1a6022c4c.png",
     "static/media/project_tracking_team.png": "/static/media/project_tracking_team.0bd5cd360307ed234895.png",
     "static/media/colorizer_ai_accuracy.png": "/static/media/colorizer_ai_accuracy.f5cc5ed430a3d15a3f8d.png",
@@ -38,11 +40,11 @@
     "static/media/project_tracking_update.png": "/static/media/project_tracking_update.58c3733767445b505cea.png",
     "index.html": "/index.html",
     "main.8f7a9097.css.map": "/static/css/main.8f7a9097.css.map",
-    "main.17ca9e0c.js.map": "/static/js/main.17ca9e0c.js.map",
+    "main.c1fccf11.js.map": "/static/js/main.c1fccf11.js.map",
     "787.ac5d6fe8.chunk.js.map": "/static/js/787.ac5d6fe8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8f7a9097.css",
-    "static/js/main.17ca9e0c.js"
+    "static/js/main.c1fccf11.js"
   ]
 }
