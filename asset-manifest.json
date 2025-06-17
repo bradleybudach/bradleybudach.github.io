@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e89e2f83.css",
-    "main.js": "/static/js/main.6a8544a7.js",
+    "main.css": "/static/css/main.7563f5a9.css",
+    "main.js": "/static/js/main.61c513d2.js",
     "static/js/787.ac5d6fe8.chunk.js": "/static/js/787.ac5d6fe8.chunk.js",
     "static/media/level_project.gif": "/static/media/level_project.305beb0fe618c83289eb.gif",
     "static/media/profile.png": "/static/media/profile.f1090d53927a9c8f6084.png",
@@ -41,6 +41,7 @@
     "static/media/firebase_app.png": "/static/media/firebase_app.b7f0689fb5d23dd040c4.png",
     "static/media/wetlandCodeInterpreterApp_Error.png": "/static/media/wetlandCodeInterpreterApp_Error.5d34d23139fd058b286b.png",
     "static/media/project_tracking_stats1.png": "/static/media/project_tracking_stats1.8e461e2dd4e36bb6032f.png",
+    "static/media/moon_destroyed.png": "/static/media/moon_destroyed.3ef9352f4dd2f7ce67b4.png",
     "static/media/keyboard_method_outline.png": "/static/media/keyboard_method_outline.b5fb762602a35dbf793e.png",
     "static/media/calculator_project.png": "/static/media/calculator_project.1d82acc10fc92776942d.png",
     "static/media/project_tracking_editors.png": "/static/media/project_tracking_editors.9e2d3e3d1355ea37c10b.png",
@@ -48,16 +49,17 @@
     "static/media/calculator_gui.png": "/static/media/calculator_gui.8ff4d105af057f35fa71.png",
     "static/media/flask_app_success.png": "/static/media/flask_app_success.d0f078c0d6aa2e4b2767.png",
     "static/media/flask_app_fail.png": "/static/media/flask_app_fail.5868beb644377081fc4b.png",
+    "static/media/moon.png": "/static/media/moon.ad3940dbb01456b1b69c.png",
     "static/media/wetlandCodeInterpreter_icon.png": "/static/media/wetlandCodeInterpreter_icon.796419acbbe2ffd55f04.png",
     "static/media/project_tracking_setup.png": "/static/media/project_tracking_setup.e958325746128d1cc85d.png",
     "static/media/project_tracking_update.png": "/static/media/project_tracking_update.58c3733767445b505cea.png",
     "index.html": "/index.html",
-    "main.e89e2f83.css.map": "/static/css/main.e89e2f83.css.map",
-    "main.6a8544a7.js.map": "/static/js/main.6a8544a7.js.map",
+    "main.7563f5a9.css.map": "/static/css/main.7563f5a9.css.map",
+    "main.61c513d2.js.map": "/static/js/main.61c513d2.js.map",
     "787.ac5d6fe8.chunk.js.map": "/static/js/787.ac5d6fe8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e89e2f83.css",
-    "static/js/main.6a8544a7.js"
+    "static/css/main.7563f5a9.css",
+    "static/js/main.61c513d2.js"
   ]
 }
